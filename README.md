@@ -1,6 +1,6 @@
 # Minting DAPP
 
-## Table of Contents
+## Table of Contents Section
 
 - [RESOURCES](#resources)
 - [INSTALLATION](#installation)
