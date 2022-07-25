@@ -38,7 +38,7 @@ const format = {
 };
 
 const extraMetadata = {
-  external_url: "https://jolly-meitner-9b6429.netlify.app/ ", // Replace with your website or remove this line if you do not have one.
+  external_url: "https://illustrious-capybara-98e7f3.netlify.app/ ", // Replace with your website or remove this line if you do not have one.
 };
 
 // NFTPort Info
