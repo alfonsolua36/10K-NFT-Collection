@@ -1,7 +1,7 @@
 const contractAddress = "0x7954a440069160504dD8675EBb7EDc9D90B40A38"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the Sodahead NFT Project!!";
+const welcome_h1 = "Welcome to Sodahead NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p = 'The Sodaheads NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://www.youtube.com/channel/UCTXuiTRxOz40gfrfvyatgXA"  target="_blank" rel="noopener noreferrer">MinuteCrypto</a> YouTube channel.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
